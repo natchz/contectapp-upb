@@ -4,7 +4,7 @@ ConectAPP UPB es una aplicación que permite a los estudiantes de la Universidad
 
 ## Características
 
-- **Página de Inicio:** Explica los propósitos de la plataforma, conectando estudiantes y profesores.
+- **Página de Inicio:** Explica los propósssitos de la plataforma, conectando estudiantes y profesores.
 - **Menú de Navegación:** Enlaces a las páginas de "Inicio", "Contacto" y "Descargas".
 - **Página de Contacto:** Formulario para que los usuarios puedan enviar preguntas o comentarios.
 - **Página de Descargas:** Enlaces para descargar la app en Android e iOS.
